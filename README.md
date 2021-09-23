@@ -1,6 +1,4 @@
-### Olá 👋
-#### Esta página está em construção.
-#### .. atualmente estou reorganizando meus repositórios, por isso vocẽ não vai encontrar nada agora. 
+#### em construção.
 
 <!--
 **antonioGabrielGomes/antonioGabrielGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Meus Interesses ...
-#### java script, java, php, c, docker, devOps, open source .. 
